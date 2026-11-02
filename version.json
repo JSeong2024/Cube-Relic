@@ -2,11 +2,11 @@
   "schema_version": 1,
   "game_id": "cube-relic",
   "game_name": "Cube Relic",
-  "status": "unpublished",
-  "latest_version": null,
+  "status": "published",
+  "latest_version": "0.6.7.3",
   "published_at": null,
-  "download_url": null,
-  "release_page_url": null,
-  "sha256": null,
+  "download_url": "https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/Cube_Relic_v0.6.7.3.zip",
+  "release_page_url": "https://github.com/JSeong2024/Cube-Relic/releases/tag/v0.6.7.3",
+  "sha256": "724b7203c4d79365e329e598879437ee17460a2002c34ef7df901efb2ae920bc",
   "changelog": []
 }
