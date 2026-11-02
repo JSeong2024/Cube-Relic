@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/JSeong2024/Cube-Relic/new/main">
+  <a href="https://github.com/JSeong2024/Cube-Relic/tree/main?tab=coc-ov-file">
     <img width="1086" height="362" alt="image" src="https://github.com/user-attachments/assets/6e7e8521-6067-4306-bcdf-feeeda2e0fc3"/>
   </a>
 </p>
