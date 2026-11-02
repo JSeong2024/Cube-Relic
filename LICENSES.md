@@ -5,7 +5,7 @@
 ## 메이플스토리 서체 (Maplestory Font)
 
 - **저작권자:** ㈜넥슨코리아 (NEXON Korea Corporation)
-- **사용 서체:** `Maplestory Light.woff2`, `Maplestory Bold.woff2`
+- **사용 서체:** `Maplestory Light.ttf`, `Maplestory Bold.ttf`
 - **사용 위치:** 게임 UI, NPC 대화창, 퀘스트 및 아이템 등 텍스트 표시
 - **공식 출처 및 최신 이용 조건:** https://maplestory.nexon.com/media/font
 
