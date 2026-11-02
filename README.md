@@ -21,7 +21,7 @@
 
 ## CR Launcher · 업데이트 확인
 
-CR Launcher는 이 저장소의 [`version.json`](./version.json)을 확인해 최신 *공개* 버전을 안내하도록 설계할 예정입니다.
+CR Launcher는 이 저장소의 [`version.json`](./version.json)을 확인해 최신 **공개** 버전을 안내하도록 설계할 예정입니다.
 
 - `status: "unpublished"`: 공개 배포 전. 업데이트 다운로드를 안내하지 않습니다.
 - `status: "published"`: `latest_version`과 로컬 버전을 비교합니다.
