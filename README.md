@@ -1,5 +1,8 @@
-<img width="2172" height="724" alt="launcher_banner_20261102" src="https://github.com/user-attachments/assets/f9327b58-3bbb-487d-a613-e845f961a482" />
-
+<p>
+  <a href="https://github.com/JSeong2024/MYPAUL-PYTHONEDU/tree/main/PYTHON-2026-09/Intermediate">
+    <img width="2172" height="724" alt="launcher_banner_20261102" src="https://github.com/user-attachments/assets/f9327b58-3bbb-487d-a613-e845f961a482" />
+  </a>
+</p>
 # Cube Relic
 
 **Cube Relic**은 복셀 아트(Voxel Art) 분위기의 HTML/JavaScript 기반 로그라이크 RPG 프로젝트입니다.
