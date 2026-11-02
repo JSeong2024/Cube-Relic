@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/JSeong2024/Cube-Relic/tree/main">
+  <a href="https://github.com/JSeong2024/Cube-Relic/tree/main?tab=readme-ov-file">
     <img width="2172" height="724" alt="launcher_banner_20261102" src="https://github.com/user-attachments/assets/f9327b58-3bbb-487d-a613-e845f961a482" />
   </a>
 </p>
