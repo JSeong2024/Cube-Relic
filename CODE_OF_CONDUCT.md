@@ -1,7 +1,9 @@
-<p>
-  <a href="https://github.com/JSeong2024/Cube-Relic/tree/main?tab=coc-ov-file">
-    <img width="1086" height="362" alt="image" src="https://github.com/user-attachments/assets/6e7e8521-6067-4306-bcdf-feeeda2e0fc3"/>
-  </a>
+<p align="center">
+  <img
+    src="./assets/coc_banner.png"
+    alt="Cube Relic Code of Conduct"
+    width="100%"
+  />
 </p>
 
 # Contributor Covenant Code of Conduct
