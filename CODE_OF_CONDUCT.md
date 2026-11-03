@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/JSeong2024/Cube-Relic/main/.github/assets/coc_banner.png"
-    alt="Cube Relic Code of Conduct"
-    width="100%"
-  />
+  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/869c848a-9b43-4484-b1eb-e1de856eabbc" />
 </p>
 
 
