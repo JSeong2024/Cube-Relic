@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="./.github/assets/coc_banner.png"
+    src="https://raw.githubusercontent.com/JSeong2024/Cube-Relic/main/.github/assets/coc_banner.png"
     alt="Cube Relic Code of Conduct"
     width="100%"
   />
 </p>
+
 
 # Contributor Covenant Code of Conduct
 
