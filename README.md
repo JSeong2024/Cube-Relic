@@ -1,6 +1,11 @@
-<p>
+<p align="center">
   <a href="https://github.com/JSeong2024/Cube-Relic">
-    <img width="2172" height="724" alt="Cube Relic 배너" src="https://github.com/user-attachments/assets/f9327b58-3bbb-487d-a613-e845f961a482" />
+    <img
+      src="./.github/assets/readme_banner.png"
+      width="2172"
+      height="724"
+      alt="Cube Relic 배너"
+    />
   </a>
 </p>
 
