@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/coc_banner.png"
+    src="./.github/assets/coc_banner.png"
     alt="Cube Relic Code of Conduct"
     width="100%"
   />
