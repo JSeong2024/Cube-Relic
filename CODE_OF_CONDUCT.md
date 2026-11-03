@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/869c848a-9b43-4484-b1eb-e1de856eabbc" />
-</p>
-
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/234946d0-3a1c-4562-b5a8-7ab2fd4e11c7" />
 
 # Contributor Covenant Code of Conduct
 
