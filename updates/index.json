@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "category": "updates",
+  "items": [
+    {
+      "id": "game-0673-release",
+      "title": "Cube Relic v0.6.7.3 — 첫 GitHub 배포",
+      "summary": "GitHub Releases 기반 배포와 CR Launcher 연동을 검증하는 버전.",
+      "body": "게임 ZIP을 통한 최초 설치 및 업데이트, 기존 게임 파일 백업, 실패 시 복구 등의 배포 기능을 점검하는 버전이야.\n\n런처 v0.3.0.2 설치 프로그램을 별도로 제공해.",
+      "published_at": "2026-11-03",
+      "version": "0.6.7.3",
+      "pinned": false,
+      "url": "https://github.com/JSeong2024/Cube-Relic/releases/tag/v0.6.7.3",
+      "image_url": "https://github.com/user-attachments/assets/4daaad8b-2853-43d4-8efa-e82ebec663f9"
+    }
+  ]
+}
