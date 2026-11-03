@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "category": "notices",
+  "items": [
+    {
+      "id": "first-release-20261103",
+      "title": "Cube Relic 첫 공개 테스트 릴리스 안내",
+      "summary": "Cube Relic v0.6.7.3의 GitHub 배포 및 CR Launcher 설치 프로그램을 공개했어.",
+      "body": "이번 릴리스는 게임 본편의 신규 콘텐츠보다 설치·다운로드·업데이트 환경 검증에 초점을 맞춘 테스트 배포야.\n\n처음 설치하는 플레이어는 CubeRelicSetup.exe를 다운로드한 뒤 런처를 통해 게임 파일을 설치할 수 있어. 중요한 세이브 데이터는 별도로 백업해 줘.",
+      "published_at": "2026-11-03",
+      "pinned": true,
+      "url": "https://github.com/JSeong2024/Cube-Relic/releases/tag/v0.6.7.3",
+      "image_url": "https://github.com/user-attachments/assets/89c2e1e5-4433-40e8-9b94-cf2c1d527e4c"
+    }
+  ]
+}
