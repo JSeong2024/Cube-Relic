@@ -28,8 +28,8 @@
 
 | 다운로드 파일 | 용도 |
 |---|---|
-| [`CubeRelicSetup.exe`](https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/CubeRelicSetup.exe) | Windows용 CR Launcher 설치 프로그램 (**권장**) |
-| [`Cube_Relic_v0.6.7.3.zip`](https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/Cube_Relic_v0.6.7.3.zip) | 게임 본편 수동 설치용 ZIP |
+| [`CubeRelicSetup.exe`](https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/CubeRelicSetup.exe) | Windows용 Launcher 설치 프로그램 (**권장**) |
+| [`Cube_Relic_v0.6.7.3.zip`](https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/Cube_Relic_v0.6.7.3.zip) | 수동 설치용 ZIP |
 
 ### 권장 설치 방법 — CR Launcher
 
