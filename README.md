@@ -14,7 +14,7 @@
 **Cube Relic**은 복셀 아트(Voxel Art) 분위기의 HTML/JavaScript 기반 로그라이크 RPG 프로젝트입니다.
 
 > **배포 상태:** 개발 중 · 첫 공개 테스트 릴리스 배포 완료  
-> **최신 버전:** `0.6.7.3` · **CR Launcher 버전:** `0.3.0.2` · **지원 플랫폼:** Windows
+> **최신 버전:** `0.6.7.3` · **CR Launcher 버전:** `0.4.4` · **지원 플랫폼:** Windows
 
 ## 게임 소개
 
@@ -28,7 +28,7 @@
 
 | 다운로드 파일 | 용도 |
 |---|---|
-| [`CubeRelicSetup.exe`](https://github.com/JSeong2024/Cube-Relic/releases/download/launcher-0.4.3/CubeRelicSetup.exe) | Windows용 Launcher 설치 프로그램 (**권장**) |
+| [`CubeRelicSetup.exe`](https://github.com/JSeong2024/Cube-Relic/releases/download/launcher-0.4.4/CubeRelicSetup.exe) | Windows용 Launcher 설치 프로그램 (**권장**) |
 | [`Cube_Relic_v0.6.7.3.zip`](https://github.com/JSeong2024/Cube-Relic/releases/download/v0.6.7.3/Cube_Relic_v0.6.7.3.zip) | 수동 설치용 ZIP |
 
 ### 권장 설치 방법 — CR Launcher
