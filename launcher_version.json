@@ -1,4 +1,10 @@
 {
+  "schema_version": 1,
   "launcher_id": "cr-launcher",
-  "version": "0.4.3"
+  "status": "published",
+  "latest_version": "0.4.4",
+  "update_required": true,
+  "download_url": "https://github.com/JSeong2024/Cube-Relic/releases/download/launcher-0.4.4/CubeRelicSetup.exe",
+  "release_page_url": "https://github.com/JSeong2024/Cube-Relic/releases/tag/launcher-0.4.4",
+  "sha256": "f8ef4854c504d17578de0088c26c7803540639534aeed588f4710d345bff1901"
 }
