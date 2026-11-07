@@ -24,7 +24,7 @@
 
 ## 다운로드 및 설치
 
-[**최신 Cube Relic 릴리스 확인하기**](https://github.com/JSeong2024/Cube-Relic/releases/latest)
+[**최신 릴리스 확인하기**](https://github.com/JSeong2024/Cube-Relic/releases/latest)
 
 | 다운로드 파일 | 용도 |
 |---|---|
